@@ -1,8 +1,8 @@
-![MasterHead](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb&fit=max)
-
-<h1 align="center">Hi 👋, I'm Nimesha Abesinghe</h1>
+<img align="center" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="banner" height="250" width="1500" /></a>
+<h1 align="center">Hey there 👋</h1>
+<h3 align="center">Welcome to my profile!</h3>
 <h3 align="center">I am an undergraduate at the University of Moratuwa's Faculty of Information Technology</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshaabesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
