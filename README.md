@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nimesha Abesinghe</h1>
 <h3 align="center">I am an undergraduate at the University of Moratuwa's Faculty of Information Technology</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20girl%20coding%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2FQVC1Nmb9TwUAAAAi%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&docid=PYdXKvkzMMKiXM&tbnid=ZqmfwZqVmf77AM&vet=12ahUKEwir1aPYlqmIAxXHzjgGHVxyDlwQM3oECGoQAA..i&w=480&h=480&hcb=2&ved=2ahUKEwir1aPYlqmIAxXHzjgGHVxyDlwQM3oECGoQAA">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshaabesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshaabesinghe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshaabesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
