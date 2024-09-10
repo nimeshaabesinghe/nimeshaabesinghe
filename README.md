@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/nimesha abesinghe](https://www.linkedin.com/in/nimesha-abesinghe-b4b681289/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesha abesinghe" height="30" width="40" /></a>
-<a href="https://medium.com/abesinghenim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abesinghenim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nimesha-abesinghe-b4b681289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesha abesinghe" height="30" width="40" /></a>
+<a href="[https://medium.com/abesinghenim](https://medium.com/@abesinghenim)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abesinghenim" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abesinghenimesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abesinghenimesh1" height="30" width="40" /></a>
 </p>
 
