@@ -4,7 +4,7 @@
 <h3 align="center">I am an undergraduate at the University of Moratuwa's Faculty of Information Technology</h3>
 <p align="left"> </p>
 
-<h3 align="left pt-4 pb-4">Connect with me:</h3>
+<h3 align="left p-8">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nimesha-abesinghe-b4b681289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesha abesinghe" height="30" width="40" /></a>
 <a href="https://medium.com/@abesinghenim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abesinghenim" height="30" width="40" /></a>
