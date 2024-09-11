@@ -33,8 +33,18 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshaabesinghe&show_icons=true&locale=en&layout=compact" alt="nimeshaabesinghe" /></p>
+<!-- Top Languages Section -->
+<p>
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshaabesinghe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimeshaabesinghe&show_icons=true&locale=en" alt="nimeshaabesinghe" /></p>
+<!-- GitHub Stats Section -->
+<p>
+  <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nimeshaabesinghe&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshaabesinghe&" alt="nimeshaabesinghe" /></p>
+<!-- GitHub Streak Stats Section -->
+<p>
+  <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshaabesinghe" alt="GitHub Streak" />
+</p>
+
