@@ -33,17 +33,14 @@
 
 ---
 
-<!-- Top Languages Section -->
 <p>
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshaabesinghe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- GitHub Stats Section -->
 <p>
   <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=nimeshaabesinghe&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Streak Stats Section -->
 <p>
   <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshaabesinghe" alt="GitHub Streak" />
 </p>
