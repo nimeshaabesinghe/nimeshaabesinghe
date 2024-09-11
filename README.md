@@ -1,11 +1,9 @@
-<!-- Banner Section -->
 <img align="center" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="banner" height="250" width="1500" />
 
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">Welcome to my profile!</h3>
 <h3 align="center">I am an IT undergraduate at the Faculty of Information Technology, University of Moratuwa</h3>
 
-<!-- Introduction -->
 <p align="center">
   🌱 I’m currently learning <strong>NodeJs</strong> <br/>
   💬 Ask me about <strong>Java, React, ASP.Net</strong> <br/>
@@ -14,7 +12,6 @@
 
 ---
 
-<!-- Connect Section -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/nimesha-abesinghe-b4b681289/">
@@ -30,7 +27,6 @@
 
 ---
 
-<!-- Languages and Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -64,7 +60,6 @@
 
 ---
 
-<!-- GitHub Stats Sections -->
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshaabesinghe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
