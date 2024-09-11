@@ -1,8 +1,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="banner" height="250" width="1500" /></a>
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">Welcome to my profile!</h3>
-<h3 align="center">I am an undergraduate at the University of Moratuwa's Faculty of Information Technology</h3>
+<h3 align="center">I am an IT undergraduate at Faculty of Information Technology, University of Moratuwa</h3>
 <p align="left"> </p>
+
+- 🌱 I’m currently learning *NodeJs* 
+- 💬 Ask me about *Java, React, ASP.Net* 
+- 📫 How to reach me *abesinghenimesha20@gmail.com*
+
 
 <h3 align="left p-8">Connect with me:</h3>
 <p align="left">
