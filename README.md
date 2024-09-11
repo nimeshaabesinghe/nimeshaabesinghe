@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/nimesha-abesinghe-b4b681289/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.hackerrank.com/abesinghenimesh1"><img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 </p>
-<a href="https://medium.com/@abesinghenim"><img src="[https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)" alt="HackerRank"></a>
+<a href="https://medium.com/@abesinghenim"><img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
 ---
